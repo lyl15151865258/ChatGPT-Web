@@ -16,7 +16,8 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://www.liyuliang.com/avatar.jpg',
-      name: '李玉亮'
+      name: '李玉亮',
+      description:'Li Yuliang',
     },
   }
 }
